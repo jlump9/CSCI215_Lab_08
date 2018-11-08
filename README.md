@@ -1,6 +1,8 @@
 # Lab_08
 jQuery Effects and Animation
 
+Joshua Lumpkin
+
 ## Part 1, One-Page FAQ ##
 * When a question is clicked, the corresponding answer will appear.
 * When a question whose answer is visible is clicked, then the answer should disappear.
